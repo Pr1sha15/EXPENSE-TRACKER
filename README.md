@@ -137,27 +137,8 @@ The project follows a modular structure:
 
 This separation makes the project easier to understand, maintain, and extend.
 
-## Future Improvements
-
-Possible future improvements include:
-
-* Adding a graphical user interface
-* Adding expense filtering by date
-* Adding charts for spending analysis
-* Exporting expenses to CSV or Excel
-* Storing budgets permanently in the database
-* Adding user accounts and authentication
-* Adding monthly and yearly spending reports
-
-## Project Status
-
-**Completed — Console Version**
-
-The current version includes the core expense management, analysis, database, and budget tracking functionality.
-
-## Author
+## Submitted by
 
 **Prisha Singh**
-
-First-year Computer Science student.
+26BCE11343
 
